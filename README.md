@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Jelson 👋
 
-<!--
-**Jelson2/Jelson2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia da Computação no IFMA** (7º período), com foco em **sistemas embarcados e IoT**.
 
-Here are some ideas to get you started:
+## 🔧 Projetos em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[letras](https://github.com/Jelson2/letras)**: display OLED com ESP32 que mostra a letra sincronizada da música que está tocando no Spotify.
+- **[projetoEmabarca](https://github.com/Jelson2/projetoEmabarca)**: alerta de silêncio com microfone e matriz de LEDs no Raspberry Pi Pico.
+
+## 🛠️ Tecnologias
+
+C • C++ • Python • Java • C# • ESP32 • Raspberry Pi Pico • Arduino
+
+## 📫 Contato
+
+- Email: jelsonsantos73@gmail.com
